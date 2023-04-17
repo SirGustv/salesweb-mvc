@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesWebMVC.Models;
 
+
 namespace SalesWebMVC.Data
 {
     public class SalesWebMVCContext : DbContext
