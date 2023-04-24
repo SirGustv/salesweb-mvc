@@ -22,11 +22,11 @@
                 <input asp-for="Seller.Email" class="form-control" />
             </div>
             <div class="form-group">
-                <label asp-for="Seller.BirthDate" class="control-label">Birth Date</label>
+                <label asp-for="Seller.BirthDate" class="control-label">BirthDate</label>
                 <input asp-for="Seller.BirthDate" class="form-control" />
             </div>
             <div class="form-group">
-                <label asp-for="Seller.BaseSalary" class="control-label">Base Salary</label>
+                <label asp-for="Seller.BaseSalary" class="control-label">BaseSalary</label>
                 <input asp-for="Seller.BaseSalary" class="form-control" />
             </div>
             <div class="form-group">
@@ -35,7 +35,8 @@
                     class="form-control"></select>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-outline-primary" />
+                <input type="submit" value="Create" class="btn btn-success" />
+                <a asp-action="Index">Back to List</a>
             </div>
         </form>
     </div>
