@@ -24,19 +24,19 @@
 ---
 <h2>Demonstração</h2>
 <p align="center">
-    <video src="media/home-and-privacy.mp4" controls title="Home & Privacy"></video>    
+    <img src="media/home-and-privacy.gif" controls title="Home & Privacy"></img>    
     <figcaption align="center">Página Home e Privacy</figcaption>
 </p><br>
 <p align="center">
-    <video src="media/departments.mp4" controls title="Departments"></video>
+    <img src="media/departments.gif" controls title="Departments"></img>
     <figcaption align="center">Página Departments (Departamentos)</figcaption>
 </p><br>
 <p align="center">
-    <video src="media/sellers.mp4" controls title="Sellers"></video>
+    <img src="media/sellers.gif" controls title="Sellers"></img>
     <figcaption align="center">Página Sellers (Vendedores)</figcaption>
 </p><br>
 <p align="center">
-    <video src="media/sales.mp4" controls title="Sales"></video>
+    <img src="media/sales.gif" controls title="Sales"></img>
     <figcaption align="center">Página Sales (Vendas)</figcaption>
 </p>
 
