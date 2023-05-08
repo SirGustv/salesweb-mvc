@@ -25,19 +25,19 @@
 <h2>Demonstração</h2>
 <p align="center">
     <img src="media/home-and-privacy.gif" controls title="Home & Privacy"></img>    
-    <figcaption align="center">Página Home e Privacy</figcaption>
+    <p align="center">Página Home e Privacy</p>
 </p><br>
 <p align="center">
     <img src="media/departments.gif" controls title="Departments"></img>
-    <figcaption align="center">Página Departments (Departamentos)</figcaption>
+    <p align="center">Página Departments (Departamentos)</p>
 </p><br>
 <p align="center">
     <img src="media/sellers.gif" controls title="Sellers"></img>
-    <figcaption align="center">Página Sellers (Vendedores)</figcaption>
+    <p align="center">Página Sellers (Vendedores)</p>
 </p><br>
 <p align="center">
     <img src="media/sales.gif" controls title="Sales"></img>
-    <figcaption align="center">Página Sales (Vendas)</figcaption>
+    <p align="center">Página Sales (Vendas)</p>
 </p>
 
 ---
